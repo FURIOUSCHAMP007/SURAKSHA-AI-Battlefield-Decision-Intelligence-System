@@ -1,8 +1,10 @@
-# AI Triage Prediction Core (BIPS-X1)
+# SURAKSHA AI: Battlefield Decision Intelligence System
 
-## Tactical Medical Decision Support System
+## “Predict. Prioritize. Save—when every second decides survival.
 
-The AI Triage Prediction Core is a high-performance tactical medical platform designed for rapid casualty assessment and survival probability estimation in high-stress environments. It utilizes context-aware algorithms to prioritize medical interventions based on physiological telemetry, trauma mechanism, and environmental factors.
+SURAKSHA AI is a high-performance tactical medical platform designed for rapid casualty assessment and survival probability estimation in high-stress environments. It utilizes context-aware algorithms to prioritize medical interventions based on physiological telemetry, trauma mechanism, and environmental factors.
+
+![System Preview](https://images.unsplash.com/photo-1551076805-e1869033e561?q=80&w=2000&auto=format&fit=crop)
 
 ---
 
