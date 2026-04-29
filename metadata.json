@@ -1,0 +1,6 @@
+{
+  "name": "SURAKSHA AI",
+  "description": "Battlefield Decision Intelligence System - Predict. Prioritize. Save—when every second decides survival.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["AI Triage", "Real-time Dashboards", "Casualty Prediction"]
+}
